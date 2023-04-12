@@ -1,4 +1,4 @@
-Description:
+## Description:
 
 If num is 10 and n is 2,
 
@@ -9,13 +9,13 @@ Take 2 bits from LSB end of 10 (1 0) and return the corresponding decimal of tha
 So get_nbits(10, 2) function should return 2
 
 
-Pre-requisites:
+## Pre-requisites:
 
 Bitwise operators
 Functions
 Sample Execution: 
 
-Test Case 1:
+### Test Case 1:
 
 Enter the number: 10
 
@@ -23,7 +23,7 @@ Enter number of bits: 3
 
 Result = 2
 
-Test Case 2:
+### Test Case 2:
 
 Enter the number: 15
 
