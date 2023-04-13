@@ -5,9 +5,9 @@
 * Read number a from user.
 * Read number b from user(a <= b <=31)
 * Do error checking
-*   Check b is within limit or not.
-*   Call replace_nbits_from_pos function by passing val, b - a + 1, b and n as arguments.
-*   replace_nbits_from_pos(num, a, b, val);
+    *   Check b is within limit or not.
+    *   Call replace_nbits_from_pos function by passing val, b - a + 1, b and n as arguments.
+    *   replace_nbits_from_pos(num, a, b, val);
 
 * Print the new value of i.
 * Prompt for continue option.
