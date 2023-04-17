@@ -33,7 +33,6 @@ N = number of terms
 
 ## Sample execution: -
 
-user@emertxe] ./progressions
 Enter the First Number 'A': 2
 
 Enter the Common Difference / Ratio 'R': 3
