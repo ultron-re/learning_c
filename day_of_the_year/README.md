@@ -22,7 +22,6 @@ Inputs: -
 
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./day_of_the_year
 Enter the value of 'n' : 9
 Choose First Day :
 1. Sunday
