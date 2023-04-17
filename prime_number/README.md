@@ -16,7 +16,6 @@ Arrays
 A positive integer 'N'. 
 ## Sample execution: -
 ### Test Case 1: A positive number
-user@emertxe] ./prime_series
 
 Enter the value of 'n' : 20
 
