@@ -43,7 +43,6 @@ Bitwise Operators
 
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./bit_ops
 
 Enter the value of 'num' : 11
 
