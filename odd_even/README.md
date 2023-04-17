@@ -19,8 +19,6 @@ Sample execution: -
 
 ### Test Case 1:
 
-user@emertxe] ./even_odd
-
 Enter the value of 'n' : -2
 
 -2 is negative even number
