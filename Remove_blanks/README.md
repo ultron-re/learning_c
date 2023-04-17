@@ -18,7 +18,6 @@ To understand the concept of
 String with multi-spaces between words
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./remove_multi_space
 
 Enter the string with more spaces in between two words
 
@@ -27,7 +26,6 @@ Pointers     are               sharp     knives.
 Pointers are sharp knives.
 
 ### Test Case 2:
-user@emertxe] ./remove_multi_space
 
 Enter the string with more spaces in between two words
 
@@ -36,7 +34,6 @@ Welcome                to Emertxe
 Welcome to Emertxe
 
 ### Test Case 3:
-user@emertxe] ./remove_multi_space
 
 Enter the string with more spaces in between two words
 
