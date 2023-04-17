@@ -14,22 +14,16 @@
         0 or non-zero value based on condition success or failure
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./is_xdigit
-
 Enter the character: a
 
 Entered character is an hexadecimal digit
 
 ### Test Case 2:
-user@emertxe] ./is_xdigit
-
 Enter the character:3
 
 Entered character is  an hexadecimal digit
 
 ### Test Case 3:
-user@emertxe] ./is_xdigit
-
 Enter the character:G
 
 Entered character is not an hexadecimal digit
