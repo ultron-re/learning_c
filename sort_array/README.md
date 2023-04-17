@@ -15,8 +15,6 @@
             Array on N integer, N
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./sort
-
 Enter the size : 5
 
 Enter 5 elements 
@@ -29,7 +27,6 @@ After sorting: -1 1 3 8 10
 Original array values 10 1 3 8 -1
 
 ### Test Case 2:
-user@emertxe] ./sort
 
 Enter the size : 7
 
@@ -42,8 +39,6 @@ After sorting: 1 2 3 4 5 6 7
 Original array values 1 3 2 5 4 7 6
 
 ### Test Case 3:
-user@emertxe] ./sort
-
 Enter the size : 4
 
 Enter 4 elements 
