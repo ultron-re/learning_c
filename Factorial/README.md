@@ -15,7 +15,6 @@ To understand the concept of Recursion and static keyword
  Positive integer N
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./factorial
 
 Enter the value of N : 7
 
