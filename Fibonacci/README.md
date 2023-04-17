@@ -18,8 +18,6 @@ Note : Should not use static and global variables.
 ## Sample execution: -
 
 ### Test Case 1 :
-user@emertxe] ./fibbonacci_series
-
 Enter a number: 8
 
 0, 1, 1, 2, 3, 5, 8
