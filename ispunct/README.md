@@ -18,7 +18,6 @@ To understand the concept of
 
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./c_type_lib
 
 Enter the character: a
 
