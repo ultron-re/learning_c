@@ -29,8 +29,6 @@
  Integers num(both +ve and -ve), n(No.of shifts)
 ## Sample execution: -
 ### Test Case 1:
-user@emertxe] ./bit_ops
-
 Enter num: 12
 
 Enter n : 3
